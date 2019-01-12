@@ -17,36 +17,26 @@
     
   
     <body>
-     
-     <!-- navbar 
-     <div id="navbar" class="navbar ">
-        <a href="Home" id="logo">LOGO</a>
-        <div id="navbar-right">
-          <a href="Home">Home</a>
-          <a href="#">Organizers</a>
-          <a href="#">Registration</a>
-          <a href="Contact">Contact</a>
-          <a href="About">About</a>
-        </div>
-    </div>
-   -->
-    <nav class="navbar navbar-expand-sm navbar-dark " id="navbar">
-        <a class="navbar-brand "  id="logo" href="Home">Navbar</a>
-        <button class="navbar-toggler bg-dark d-lg-none" type="button" data-toggle="collapse" data-target="#collapsibleNavId" aria-controls="collapsibleNavId"
-            aria-expanded="false" aria-label="Toggle navigation"></button>
-        <div class="collapse navbar-collapse" id="collapsibleNavId">
-        <div id="navbar-right">
-            <ul class="navbar-nav ml-auto mt-2 mt-lg-0 ">
+
+    <nav class="navbar navbar-expand navbar-dark bg-transparent " id="navbar">
+       
+        <button class="navbar-toggler navbar-toggler-right bg-dark " type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown"
+            aria-expanded="false" aria-label="Toggle navigation">
+               <span class="navbar-toggler-icon"></span>
+            </button>
+             <a class="navbar-brand "  id="logo" href="Home" style="margin-left: 3%;color: white"  >Navbar</a>
+        
+       
+            <ul class="navbar-nav ml-auto" style="margin-right: 3%">
                 <li class="nav-item ">
-                    <a class="nav-link " href="Home">Home <span class="sr-only">(current)</span></a>
+                    <a class="nav-link " href="Home" id="home"  style="color: white">Home <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item ">
-                    <a class="nav-link " href="About">About</a>
+                    <a class="nav-link " href="About" id="about" style="color: white">About</a>
                 </li>
                
             </ul>
-              </div>
+              
         </div>
     </nav>
 
-<br><br><br><br><br><br><br><br>
