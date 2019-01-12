@@ -8,13 +8,13 @@
       <div class="jumbotron big-banner " style="height:50%; padding-top:150px; ">
       
           <div class="container  middle ">
-              <h1 class="display-1 text-bold text-light ">Conference</h1>
+              
                 <p class="text-grey font-bg display-3 " style="padding-left :200px;">Text over here </p>  
                
           </div>
           <div class="container-fluid" >
           <p class="text-grey font-bg display-4  " style="padding-left :985px;">World's biggest evnt </p>  
-          <a name="" id="" class="btn btn-danger" style="position: absolute; top: 650px; left: 80%;" href="About" role="button">About us</a>
+         
          </div>
       </div>
      
