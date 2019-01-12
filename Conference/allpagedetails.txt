@@ -1,0 +1,20 @@
+CSS and JS files :
+All the CSS and JS files are stored in 'assets' folder.
+
+
+HomePage :
+There is home.php file in the view 
+and its controller is named as Home.php
+To access it : localhost/Conference/index.php/Home
+
+
+AboutPage :
+There is about.php file in the view 
+and its controller is named as About.php
+To access it : localhost/Conference/index.php/About
+
+HeaderPage:
+This is header page for every other page , i.e; It has the navigation bar 
+
+FooterPage :
+This is the footer page for every page , i.e; Information at the end of the page 
